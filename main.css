@@ -40,7 +40,6 @@ body {
   right: 0;
   top: 0;
   color:#e74c3c;
-  transition: transform 0.3s;
 }
 
 .answer {
